@@ -25,3 +25,15 @@ Learned Git commands, branch management, pull requests, versioning, and project 
 
 ## Author
 DevOps Intern
+## Git Workflow Demonstration
+
+This section demonstrates feature development using Git branches
+and pull requests.
+
+### Workflow Steps
+1. Create a feature branch.
+2. Make and commit changes.
+3. Push the feature branch to GitHub.
+4. Create a pull request into the dev branch.
+5. Merge approved changes into dev.
+6. Merge dev into main after verification.
