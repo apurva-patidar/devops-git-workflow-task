@@ -1,0 +1,13 @@
+INFO Server started on port 8080
+ERROR Database connection failed
+INFO Retrying database connection
+WARNING Database response slow
+ERROR Authentication failed
+INFO User admin logged in
+ERROR Database connection failed
+INFO Request completed
+WARNING High memory usage
+ERROR Authentication failed
+INFO Server running normally
+ERROR Disk space low
+
